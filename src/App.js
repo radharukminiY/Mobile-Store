@@ -12,7 +12,7 @@ import Modal from './components/modal';
 function App() {
   return(
     <Fragment>
-    <Home />
+    <Navbar />
     <Switch>
     <Route exact path ="/" component ={ProductList}</Route>
     <Route exact path ="/details" component ={Details}</Route>
