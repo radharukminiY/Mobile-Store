@@ -6,7 +6,10 @@ const ProductContext = React.createContext();
 //Consumer
 
 class ProductProvider extends Component {
-    state = {
+  constructor(){
+    super()
+
+    this.state = {
         products: [],
         detailProduct: detailProduct,
         cart: [],
@@ -15,9 +18,10 @@ class ProductProvider extends Component {
         cartSubTotal: 0,
         cartTax: 0,
         cartTotal: 0
-    };
+  }
+ };
 
-    componentWillMount(){
+    componentDidMount(){
         this.setProducts();
     }
 

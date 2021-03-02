@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 import logo from '../logo.svg';
 import styled from 'styled-components';
 import {ButtonContainer} from './button';
 
-class Navbar extends Component {
+class Home extends Component {
     render() {
         return (
             <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
@@ -29,10 +29,9 @@ class Navbar extends Component {
     }
 }
 
-export default Navbar;
-
+export default Home;
 const NavWrapper = styled.nav`
-    background: var(--mainBlue);
+    background: var(--mainBrown);
     .nav-link{
         color: var(--mainWhite) !important;
         font-size: 1.3rem;

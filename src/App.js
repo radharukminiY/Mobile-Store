@@ -2,7 +2,7 @@ import React ,{Fragment}from 'react';
 import {Switch,Route,} from 'react-router-dom';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './components/home';
+import Home from './components/home';
 import ProductList from './components/productlist';
 import Details from './components/details';
 import Cart from './components/Cart/Cart';
@@ -12,7 +12,7 @@ import Modal from './components/model';
 function App() {
   return(
     <Fragment>
-    <Navbar />
+    <Home />
     <Switch>
     <Route exact path ="/" component ={ProductList}></Route>
     <Route exact path ="/details" component ={Details}></Route>
