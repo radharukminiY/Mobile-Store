@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 800,
     company: "APPLE",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The phone comes with a 4.70-inch touchscreen display, 2.34GHz quad-core Apple A10 Fusion processor.It comes with 2GB of RAM. The Apple iPhone 7 runs iOS 10 and is powered by a 1960mAh non-removable battery.Apple iPhone 7 is based on iOS 10 and packs 32GB of inbuilt storage.",
     inCart: false,
     count: 0,
     total: 0
@@ -18,7 +18,7 @@ export const storeProducts = [
     price: 250,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Samsung A21 has 3 GB of RAM and 32 GB of storage, expandable via microSD. It has a quadruple photo sensor on the back with the main one at 16 megapixels. It has a 4000 mAh battery compatible with fast charging.",
     inCart: false,
     count: 0,
     total: 0
@@ -30,7 +30,7 @@ export const storeProducts = [
     price: 350,
     company: "MI",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "MI-blue has Memory, Storage and SIM: 4GB RAM | 64GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G),4000mAH lithium-polymer battery.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const storeProducts = [
     price: 600,
     company: "One plus",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The OnePlus 6 is the most polished, premium smartphone the firm has made in its short existence.",
     inCart: false,
     count: 0,
     total: 0
@@ -54,7 +54,7 @@ export const storeProducts = [
     price: 450,
     company: "Xiaomi",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Amazing Quad camera setup on the backside6GB RAM and 128GB internal storageAndroid v11 Operating system5000mAh battery with Fast Charging support.",
     inCart: false,
     count: 0,
     total: 0
@@ -66,7 +66,7 @@ export const storeProducts = [
     price: 400,
     company: "Xiaomi",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The Redmi Note 9 Pro is equipped with a Quad camera. The main camera is 64 MP and perfectly captures your favorite moments. The ultra-wide-angle lens, macro lens and depth sensor ensure you get the best results, whatever scene you want to capture.",
     inCart: false,
     count: 0,
     total: 0
@@ -78,7 +78,7 @@ export const storeProducts = [
     price: 200,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The Galaxy M21 sports a triple camera setup with the highlight being the 48-megapixel primary scanner. The camera clicks good photos during the day but low-light camera performance takes a hit.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,7 +90,7 @@ export const storeProducts = [
     price: 900,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum Euro amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Performs like no other smartphone, because it’s like no other smartphone.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,7 +104,7 @@ export const detailProduct = {
   price: 800,
   company: "Apple",
   info:
-    "Lorem ipsum Euro  amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    " The phone comes with a 4.70-inch touchscreen display with a resolution of 750x1334 pixels at a pixel density of 326 pixels per inch (ppi) and an aspect ratio of 16:9. Apple iPhone 7 is powered by a 2.34GHz quad-core Apple A10 Fusion processor.",
   inCart: false,
   count: 0,
   total: 0
