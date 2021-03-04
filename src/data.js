@@ -94,6 +94,54 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
+  },
+  {
+    id: 9,
+    title: "Moto g9+",
+    img: "img/phone9.png",
+    price: 300,
+    company: "Motorola",
+    info:
+      "The Motorola Moto G9 Plus works thanks to a Snapdragon 730G chip supported by 4 or 6 GB of RAM, depending on the version.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 10,
+    title: "Htc U12+",
+    img: "img/phone10.jpg",
+    price: 500,
+    company: "HTC",
+    info:
+      " It is With 4 cameras, HTC U12+ delivers outstanding quality imaging and opens up whole new worlds for artistic creativity.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 11,
+    title: "Samsung Galaxy S20",
+    img: "img/phone11.jpeg",
+    price: 800,
+    company: "SAMSUNG",
+    info:
+      "It is equipped with a 6.2-inch HDR10 + certified AMOLED screen, a versatile triple photo sensor between ultra wide-angle and 3X zoom (30X in hybrid) and an Exynos 990 processor engraved in 7 nm supported by 8 GB of RAM (12 GB in 5G version). It is available in 4G or 4G + 5G version and with 128 GB of UFS 3.0 storage.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 12,
+    title: "Iphone 11 pro",
+    img: "img/phone12.jpeg",
+    price: 700,
+    company: "APPLE",
+    info:
+      "Featuring a Stunning Pro Display, A13 Bionic, Cutting-Edge Pro Camera System and Longest Battery Life Ever in iPhone with iPhone 11 Pro Max.",
+    inCart: false,
+    count: 0,
+    total: 0
   }
 ];
 
